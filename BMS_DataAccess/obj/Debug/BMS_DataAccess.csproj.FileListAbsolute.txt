@@ -1,0 +1,6 @@
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_DataAccess\bin\Debug\BMS_DataAccess.dll
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_DataAccess\bin\Debug\BMS_DataAccess.pdb
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_DataAccess\obj\Debug\BMS_DataAccess.csproj.AssemblyReference.cache
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_DataAccess\obj\Debug\BMS_DataAccess.csproj.CoreCompileInputs.cache
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_DataAccess\obj\Debug\BMS_DataAccess.dll
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_DataAccess\obj\Debug\BMS_DataAccess.pdb

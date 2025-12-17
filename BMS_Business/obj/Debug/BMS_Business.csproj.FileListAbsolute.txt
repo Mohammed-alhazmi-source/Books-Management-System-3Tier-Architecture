@@ -1,0 +1,9 @@
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_Business\bin\Debug\BMS_Business.dll
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_Business\bin\Debug\BMS_Business.pdb
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_Business\obj\Debug\BMS_Business.csproj.AssemblyReference.cache
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_Business\obj\Debug\BMS_Business.csproj.CoreCompileInputs.cache
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_Business\obj\Debug\BMS_Business.dll
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_Business\obj\Debug\BMS_Business.pdb
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_Business\bin\Debug\BMS_DataAccess.dll
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_Business\bin\Debug\BMS_DataAccess.pdb
+E:\Profil_Projects\BooksManagementSystem_Project\BMS_Solution\BMS_Business\obj\Debug\BMS_Business.csproj.CopyComplete
