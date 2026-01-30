@@ -16,7 +16,7 @@ The **Books Management System (BMS)** is a hands-on implementation designed to p
 The core focus of this project is the strict application of the **3-Tier Architecture** to practice separation of concerns:
 * **Presentation Layer (UI):** Built to practice building reusable WinForms components and User Controls.
 * **Business Logic Layer (BLL):** Implements business rules and entities to master OOP principles.
-* **Data Access Layer (DAL):** Dedicated to practicing secure database communication using ADO.NET and Stored Procedures.
+* **Data Access Layer (DAL):** Dedicated to practicing secure database communication using ADO.NET.
 
 ---
 
