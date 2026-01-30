@@ -82,7 +82,7 @@ Details of the Presentation Layer and how User Controls are organized.
 ---
 
 ### 5. Database BMS_RelationalSchema
-<img src="BMS_Database/BMS_RelationalSchema.drawio.png" width="700">
+<img src="BMS_Database/BMS_RelationalSchema.png" width="700">
 
 ---
 
