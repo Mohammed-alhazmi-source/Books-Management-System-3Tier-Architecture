@@ -61,7 +61,7 @@ The repository is organized to reflect a professional development environment:
 
 ### 1. 3-Tier Architecture Overview
 This diagram shows the logical separation between the Data, Business, and Presentation layers.
-<img src="BMS_ScreensShorts/3-Tier Architecture.png" width="700">
+<img src="BMS_ScreensShorts/3-TierArchitecture.png" width="700">
 
 ---
 
